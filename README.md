@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hoprex
+- 👀 I’m interested in html and web development
+- 🌱 I’m currently learning java/html/css
+- 💞️ I’m looking to collaborate on my website
+- 📫 chazzy@snaildos.com
